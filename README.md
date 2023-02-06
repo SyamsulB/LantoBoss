@@ -32,13 +32,13 @@ Cracker Publik &amp; File Cloning Terbaru 2 Method
 
  pip2 install bs4
 
-python3 -m pip install requests bs4
+ python3 -m pip install requests bs4
 
- rm -rf LantoBS
+ rm -rf LantoBoss
 
  git clone https://github.com/SyamsulB/LantoBS
 
- cd LantoBS
+ cd LantoBoss
  
  python Boss.py
 ```
